@@ -9,7 +9,7 @@ def readlines(filename):
         for line in ins:
             result.append(line)
     return result
-djkgfhasolk
+
 lines = readlines('labelImg.spec')
 for ind, line in enumerate(lines):
     if 'hiddenimports' in line:
