@@ -2,7 +2,7 @@
 # this is the first time
 I want to learn how to use the github.
 <div align="center">
-	<img src="https://coding.jd.com/JDAI-NLP-algo/Crawler/blob/master/supplement/imgs/img1.png" width = "100px" alt="图片说明" >
+	<img src="https://coding.jd.com/webapi/projects/JDAI-NLP-algo/Crawler/blob-raw?revision=master&path=supplement%2Fimgs%2Fimg1.png" width = "100px" alt="图片说明" >
 	<img src="https://coding.jd.com/JDAI-NLP-algo/Crawler/blob/master/supplement/imgs/img2.png" width = "100px" alt="图片说明" >
 	<img src="https://coding.jd.com/JDAI-NLP-algo/Crawler/blob/master/supplement/imgs/img2.png" width = "100px" alt="图片说明" >
 </div>
